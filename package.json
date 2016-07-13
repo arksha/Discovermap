@@ -1,0 +1,16 @@
+{
+    "name": "Discovermap",
+    "main": "server.js",
+	"version": "1.0.0",
+	"description": "a demo of using Google Maps in MEAN App",
+	"author": "Ting Gong",
+	"private":true,
+    "dependencies" : {
+        "express"    : "~4.7.2",
+        "mongoose"   : "~4.1.0",
+        "morgan"     : "~1.2.2",
+        "body-parser": "~1.5.2",
+        "jsonwebtoken": "^5.0.2",
+        "method-override": "~2.1.2"
+    }
+}
