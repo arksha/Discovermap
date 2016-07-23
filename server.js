@@ -12,7 +12,7 @@ var app             = express();
 // Express Configuration
 // -----------------------------------------------------
 // Sets the connection to MongoDB
-mongoose.connect("mongodb://127.0.0.1/Discovermap");
+mongoose.connect("mongodb://heroku_5jgb8w2d:o47nmlmfd5a3m3t4433rdl3r07@ds029715.mlab.com:29715/heroku_5jgb8w2d");
 
 // Logging and Parsing
 app.use(express.static(__dirname + '/public'));                 // sets the static files location to public
