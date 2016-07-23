@@ -2,7 +2,7 @@
     "name": "Discovermap",
     "main": "server.js",
 	"version": "1.0.0",
-	"description": "a demo of using Google Maps in MEAN App",
+	"description": "a demo of using Google Maps in MEAN Stack",
 	"author": "Ting Gong",
 	"private":true,
     "dependencies" : {
